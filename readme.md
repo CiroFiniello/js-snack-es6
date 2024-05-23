@@ -14,6 +14,8 @@ Poi facciamo il commit e il secondo push
 descritti in italiano. Poi facciamo il commit e il terzo push.
 5. Procediamo a svolgere l'esercizio in javascript,  facendo un adeguato numero di commit e push.
 SNACK 1
+
+
 Dwayne Johnson ci ha chiesto di creare i segnaposto per il tavolo degli invitati alla sua mega festa vip.
 Ci ha lasciato il nome del tavolo ("Tavolo Vip") e la lista degli invitati in ordine di posto:
 [ 'Brad Pitt', 'Johnny Depp', 'Lady Gaga', 'Cristiano Ronaldo', 'Georgina Rodriguez', 'Chiara Ferragni',  'George Clooney', 'Amal Clooney', 'Fedez', 'Amadeus', 'Fiorello']
